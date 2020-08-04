@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.906,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitMain.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,C:\все будет хорошо\UnitMain.pas=C:\УЧЕТ БДЖЕТА\учет\UnitMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,C:\все будет хорошо\UnitCalculator.pas=C:\УЧЕТ БДЖЕТА\учет\UnitCalculator.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitErrorOfAddUser.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\все будет хорошо\UnitAddUserInfo.pas=C:\УЧЕТ БДЖЕТА\учет\UnitAddUserInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitEditMoney.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\все будет хорошо\UnitData.pas=C:\УЧЕТ БДЖЕТА\учет\UnitData.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.552,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,C:\все будет хорошо\CoinKeeper.dproj=C:\все будет хорошо\Coin.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitAddUser.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,C:\УЧЕТ БДЖЕТА\учет\Projectcourse.dproj=C:\УЧЕТ БДЖЕТА\попытккааа.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\УЧЕТ БДЖЕТА\учет\UnitAddUser.dfm=C:\УЧЕТ БДЖЕТА\учет\UnitAddUserInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitEditMoney.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitDeleteMoney.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,C:\УЧЕТ БДЖЕТА\учет\UnitDeleteMoney.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitAddMoney.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitErrorOfAddUser.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitErrorOfAddUser.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitMain.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\все будет хорошо\UnitAddUserInfo.dfm=C:\УЧЕТ БДЖЕТА\учет\UnitAddUserInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitData.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,C:\УЧЕТ БДЖЕТА\учет\UnitAddUser.pas=C:\УЧЕТ БДЖЕТА\учет\UnitAddUserInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\все будет хорошо\Coin.dproj=C:\все будет хорошо\курс.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,C:\все будет хорошо\курс.dproj=C:\УЧЕТ БДЖЕТА\попытккааа.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitAddUser.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.221,=C:\все будет хорошо\Untitled1.xsd</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitAddMoney.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,C:\УЧЕТ БДЖЕТА\учет\UnitEditMoney.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitDeleteMoney.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=C:\все будет хорошо\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.483,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,C:\все будет хорошо\UnitCalculator.dfm=C:\УЧЕТ БДЖЕТА\учет\UnitCalculator.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Projectcourse.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,C:\все будет хорошо\UnitAddMoney.dfm=C:\УЧЕТ БДЖЕТА\учет\UnitAddMoney.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,C:\все будет хорошо\UnitAddMoney.pas=C:\УЧЕТ БДЖЕТА\учет\UnitAddMoney.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitCalculator.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitCalculator.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,=C:\все будет хорошо\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitCalculator.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitCalculator.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,=C:\все будет хорошо\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.194,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\Unit1.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projects\2 семестр\курсач\UnitData.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,C:\все будет хорошо\UnitMain.dfm=C:\УЧЕТ БДЖЕТА\учет\UnitMain.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitMain.pas"/>
+    <File Path="UnitMain.dfm"/>
+    <File Path="UnitAddUserInfo.pas"/>
+    <File Path="UnitAddUserInfo.dfm"/>
+    <File Path="UnitAddMoney.pas"/>
+    <File Path="UnitAddMoney.dfm"/>
+    <File Path="UnitData.pas"/>
+    <File Path="UnitCalculator.pas"/>
+    <File Path="UnitCalculator.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
