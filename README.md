@@ -31,3 +31,11 @@ The list of profits is completed in the "Income" section, which also contains th
 The user's expenses are entered in the "Expenses" section after clicking on the "Add" button. 
 
 ![alt text](addMoneyEarn.png "Adding expenses")​
+
+>Budget planning 
+
+Budget planning is done in the section "Plans". To add plans of expenses or income for the month, click on the corresponding button and enter the amount in Belarusian rubles. Also, for better budget tracking, the table of plans of expenses (income) shows the difference between actual and planned expenses (income).
+
+![alt text](addPlanEarn.png "Adding plan")​
+
+![alt text](addPlanSpend.png "Adding plan")
