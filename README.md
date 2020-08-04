@@ -12,5 +12,7 @@
 
 >Main menu
 
+The main communication with the program is performed through the user-friendly menu which consists of 6 sections: Income, Expenditure, Plans, Report, Users, Help.
+
 ![alt text](mainMenu.png "Main menu")​
 
