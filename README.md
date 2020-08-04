@@ -22,7 +22,12 @@ To add a user, you should click on the "Users" button in the side menu. This sec
 
 ![alt text](addUser.png "Add user")​
 
->Adding expenses and revenues
+>Adding income and expenses
 
-![alt text](addMoneySpend.png "Adding expenses")​
-![alt text](addMoneyEarn.png "Adding revenues")​
+The list of profits is completed in the "Income" section, which also contains the table of earnings of all users.
+
+![alt text](addMoneySpend.png "Adding income")​
+
+The user's expenses are entered in the "Expenses" section after clicking on the "Add" button. 
+
+![alt text](addMoneyEarn.png "Adding expenses")​
