@@ -14,17 +14,17 @@
 
 The main communication with the program is performed through the user-friendly menu which consists of 6 sections: Income, Expenditure, Plans, Report, Users, Help.
 
->![alt text](mainMenu.png "Main menu")​
+![alt text](mainMenu.png "Main menu")​
 
 
 >**Add User**
 
 To add a user, you should click on the "Users" button in the side menu. This section contains the list of users and their bills. An unlimited number of users that can have up to 10 bills in different currencies (Belarusian ruble, Russian ruble, Dollar) can use the program. You can choose the name of the account from the offered ones or enter it by yourself. 
 
->![alt text](addUser.png "Add user")​
+![alt text](addUser.png "Add user")​
 
 
->Adding income and expenses
+># **Adding income and expenses**
 
 The list of profits is completed in the "Income" section, which also contains the table of earnings of all users.
 
