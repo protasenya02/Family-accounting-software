@@ -39,3 +39,8 @@ Budget planning is done in the section "Plans". To add plans of expenses or inco
 ![alt text](addPlanEarn.png "Adding plan")​
 
 ![alt text](addPlanSpend.png "Adding plan")
+
+>Budget report
+
+To get a budget report, go to the "Report" section, select a user and a report type. The amounts of expenses or profit for the selected period are placed in the table by categories. The percentage ratio of expenses (income) to total expenses (income) is shown in the pie chart.
+![alt text](report.png "Budget report")
