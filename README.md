@@ -8,7 +8,9 @@
 >[program diagram](https://github.com/protasenya02/Family-accounting-software/blob/master/final/схема%20программы.png)
 
 
-# Visual appereance
+# Visual appearance 
+
+>Main menu
 
 ![alt text](mainMenu.png "Main menu")​
 
